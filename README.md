@@ -1,6 +1,6 @@
-# Hi!
+# 👋 Hi!
 
-- 👋 Hi, I’m Tahir Novruzov
+- 😊 I’m Tahir Novruzov
 - 🌱 I’m currently learning C#
 
 ## My Codewars Profile
