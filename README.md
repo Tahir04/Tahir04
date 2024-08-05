@@ -1,4 +1,4 @@
-# About Me
+# Hi!
 
 - 👋 Hi, I’m Tahir Novruzov
 - 🌱 I’m currently learning C#
