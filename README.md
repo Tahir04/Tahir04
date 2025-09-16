@@ -1,7 +1,7 @@
 # 👋 Hi!
 
 - 😊 I’m Tahir Novruzov
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Frontend development
 
 ## My Codewars Profile
 
